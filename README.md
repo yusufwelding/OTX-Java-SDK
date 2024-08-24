@@ -19,7 +19,7 @@ java -jar target/DirectConnect-Java-SDK-0.1.0.jar
 1. Edit the file ./src/test/resources/test\_application.properties and add your ATX API key to key= property
 ```
 ...
-key=<your otx key>
+key=<a39502b7f62e22674780c4e890a42af543748cee71139b70576c72a129ddc30d>
 ...
 ```
 2. Using maven, run
